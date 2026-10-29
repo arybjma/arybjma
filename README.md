@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hello, I'm Arya Bima 👋
-
 ### **Information Security Enthusiast**
 
 
