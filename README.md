@@ -2,10 +2,10 @@
 
 # Hello, I'm Arya Bima 👋
 
-### **Information Security Enthusiast & CTF Player**
+### **Information Security Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/username-kamu)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-success?style=flat-square&logo=about.me)](https://link-portfolio-kamu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arya-bima-88b989428)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arybjma/)
 
 </div>
 
@@ -13,31 +13,37 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my professional GitHub space. I am an enthusiastic learner focusing on **Cybersecurity**, **Web Exploitation**, and **System Administration**. I enjoy solving complex logic puzzles through Capture The Flag (CTF) competitions and continuously sharpening my analytical skills in threat detection and software security.
+I am an aspiring Information Security professional with a strong focus on offensive security, web application security, and network analysis. My core interest lies in dissecting complex digital systems, identifying vulnerabilities, and applying systematic methodologies to assess system security. Driven by continuous learning, I am committed to building a robust foundation in secure development, threat mitigation, and system hardening.
 
 ---
 
 ## 🛠️ Technical Skills & Tools
 
-* **Programming & Scripting:** 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+### 🖥️ Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CDA?style=flat-square&logo=kali-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-* **Security & Network Tools:** 
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white) 
-  ![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=flat-square&logo=wireshark&logoColor=white) 
-  ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-* **Operating Systems:** 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+### 🛡️ Cybersecurity & Forensics Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-112F4E?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 📁 Featured Repositories
 
-* **[CTF Write-ups](link-repo-ctf):** Dokumentasi langkah-langkah penyelesaian tantangan keamanan siber dari berbagai platform (HackTheBox, PicoCTF, dll).
+* **[Security Write-ups](link-repo-writeup):** Dokumentasi analisis keamanan, pengujian penetrasi, dan penyelesaian modul praktikum.
 * **[Certificates & Achievements](link-repo-sertif):** Kumpulan sertifikat kompetensi dan pelatihan profesional yang telah saya peroleh.
 
 ---
