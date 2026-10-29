@@ -44,7 +44,7 @@ I am an aspiring Information Security professional with a strong focus on offens
 ## 📁 Featured Repositories
 
 * **[Security Write-ups](link-repo-writeup):** Dokumentasi analisis keamanan, pengujian penetrasi, dan penyelesaian modul praktikum.
-* **[Certificates & Achievements](link-repo-sertif):** Kumpulan sertifikat kompetensi dan pelatihan profesional yang telah saya peroleh.
+* **[Certificates & Achievements](https://github.com/arybjma/certificates/blob/main/README.md):** Kumpulan sertifikat kompetensi dan pelatihan profesional yang telah saya peroleh.
 
 ---
 
